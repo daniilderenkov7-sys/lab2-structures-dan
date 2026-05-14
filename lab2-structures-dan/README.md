@@ -127,6 +127,7 @@ return 0;
 
 ## Результат выполнения программы
 
-![Result](screenshots/result.png)
+<img width="887" height="441" alt="image" src="https://github.com/user-attachments/assets/29fb06df-76ee-4c1d-8147-c1063ed852e6" />
+
 
 
