@@ -119,6 +119,14 @@ int main()
 }
 
 ---
+
+```cpp
+return 0;
+}
+```
+
 ## Результат выполнения программы
-<img width="883" height="442" alt="image" src="https://github.com/user-attachments/assets/c6cd99a5-e187-47d0-82c6-474b17341739" />
+
+![Result](screenshots/result.png)
+
 
